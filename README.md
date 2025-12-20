@@ -11,9 +11,9 @@
 <h2 align="left">About me</h2>
 
 <p align="left">
-  ✨ Creating bugs since 2022 <br>
-  📚 Currently learning Django <br>
-  🎯 Goal: Become a Full Stack Developer <br>
+  ✨ Creating bugs since 2022 <br><br>
+  📚 Currently learning Django <br><br>
+  🎯 Goal: Become a Full Stack Developer <br><br>
   🎲 Fun fact: I love watching sitcoms and movies
 </p>
 
