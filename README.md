@@ -11,10 +11,10 @@
 <h2 align="left">About me</h2>
 
 <p align="left">
-  ✨ Creating bugs since 2022 <br><br>
-  📚 Currently learning Django <br><br>
-  🎯 Goal: Become a Full Stack Developer <br><br>
-  🎲 Fun fact: I love watching sitcoms and movies
+  Creating bugs since 2022 <br><br>
+  Currently learning Django <br><br>
+  Goal: Become a Full Stack Developer <br><br>
+  Fun fact: I love watching sitcoms and movies
 </p>
 
 <h2 align="left">I code with</h2>
