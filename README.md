@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 <p align="left">
-  My name is Sujal Limbu and I'm a CSIT student from Nepal 🇳🇵
+  My name is Sujal Limbu and I am from Nepal 🇳🇵
 </p>
 
 <p align="left">
